@@ -28,7 +28,9 @@ AFRAME.registerComponent('myComponent', {
 These files should be copied to the relevant location according to [Visual Studio Code Snippet Help](https://code.visualstudio.com/Docs/customization/userdefinedsnippets#_sharing-your-snippets-in-the-marketplace).
 
 For Windows `%APPDATA%\Code\User\`
+
 For Mac `$HOME/Library/Application Support/Code/User/`
+
 For Linux `$HOME/.config/Code/User/`
 
 **If you already have these files you will need to merge them so you don't overwrite your own snippets.**
