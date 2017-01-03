@@ -35,3 +35,5 @@ For Linux `$HOME/.config/Code/User/`
 
 **If you already have these files you will need to merge them so you don't overwrite your own snippets.**
 
+##Testing
+I have only tested this on Windows 10 and have used Visual Studio Code Insiders. Please test first!
