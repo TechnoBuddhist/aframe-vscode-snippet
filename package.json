@@ -1,0 +1,16 @@
+{
+  "name": "ITI-JS",
+  "publisher": "TechnoBuddhist",
+  "description": "TechnoBuddhist A-Frame javascript snippets",
+  "version": "0.1.0",
+  "engines": { "vscode": "0.10.x" },
+  "categories": ["Snippets"], 
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      }
+    ]
+  }
+}
