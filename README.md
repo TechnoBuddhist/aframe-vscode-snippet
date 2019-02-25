@@ -22,11 +22,11 @@ The component/system name is generated from the javascript filename and unfortun
 
 i.e your new javascript filename is 'myComponent.js' and it generates
 
-AFRAME.registerComponent('myComponent.js', {
+`AFRAME.registerComponent('myComponent.js', {`
 
 it should be
 
-AFRAME.registerComponent('myComponent', {
+`AFRAME.registerComponent('myComponent', {`
 
 ## Installation
 package.json & snippets folder should be copied to the relevant location according to [Visual Studio Code Snippet Help](https://code.visualstudio.com/Docs/customization/userdefinedsnippets#_sharing-your-snippets-in-the-marketplace).
